@@ -1,0 +1,61 @@
+Please add the data files into this folder "data":
+The DOI for the data files: 10.5281/zenodo.7900274
+The file structure that should be adhered to is:
+-data
+    - Acoustic Transmitters Constrained
+        - 67@DS256-51.csv
+        - 67@DS256-52.csv
+        - 67@DS256-53.csv
+        - 67@DS256-54.csv
+        - 67@DS256-55.csv
+        - 67@DS256-56.csv
+        - 67@DS256-57.csv
+        - 67@DS256-58.csv
+        - 67@DS256-59.csv
+        - 67@DS256-60.csv
+        - 67@DS256-61.csv
+        - 67@DS256-62.csv
+        - 67@DS256-63.csv
+        - 67@DS256-64.csv
+        - 67@DS256-65.csv
+        - 67@DS256-66.csv
+        - 69@DS256-67.csv
+        - 69@DS256-68.csv
+        - 69@DS256-69.csv
+        - 69@DS256-70.csv
+        - 69@DS256-71.csv
+        - 69@DS256-72.csv
+        - 69@DS256-73.csv
+        - 69@DS256-74.csv
+        - 69@DS256-75.csv
+        - 69@DS256-76.csv
+        - 69@DS256-77.csv
+        - 69@DS256-78.csv
+        - 69@DS256-79.csv
+        - 69@DS256-80.csv
+        - 69@DS256-81.csv
+        - 69@DS256-82.csv
+        - 71@DS256-83.csv
+        - 71@DS256-84.csv
+        - 71@DS256-87.csv
+        - 71@DS256-88.csv
+        - 71@DS256-89.csv
+        - 71@DS256-90.csv
+        - 71@DS256-91.csv
+        - 71@DS256-92.csv
+        - 71@DS256-93.csv
+        - 71@DS256-94.csv
+        - 71@DS256-95.csv
+        - 71@DS256-96.csv
+
+    - Acoustic Transmitters Unconstrained
+        - TagDetections.csv
+    - Receivers
+        - TBRSensorData.csv
+
+    - Sun Times
+        - astronomical_sun_times_2021.csv
+        - civil_sun_times_2021.csv
+        - nautical_sun_times_2021.csv
+        - official_sun_times_2021.csv
+        - README.txt
