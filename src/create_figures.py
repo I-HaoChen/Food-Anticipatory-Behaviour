@@ -63,7 +63,7 @@ def create_figure_S4_12():
                                      visualize=True, day_by_day=True)
 
 
-if __name__ == "__main__":
+def create_all_paper_figures():
     print("Coded Figures for paper are being created")
     create_figure_2()
     create_figure_3ab()
@@ -76,3 +76,7 @@ if __name__ == "__main__":
     create_figure_S2()
     create_figure_S3ab()
     create_figure_S4_12()
+
+
+if __name__ == "__main__":
+    create_all_paper_figures()
