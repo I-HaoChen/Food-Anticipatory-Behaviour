@@ -2,10 +2,10 @@
 
 This repository:[![DOI](https://zenodo.org/badge/604184268.svg)](https://zenodo.org/badge/latestdoi/604184268)
 
-The paper using this repository:
-MAYBE WITH BADGE?
+The paper using this repository: 10.3389/fmars.2023.1168953
 
 The dataset needed to run the code can be found under the DOI: 10.5281/zenodo.7900274
+
 For installation, run:
 ```
 pip install git+https://github.com/I-HaoChen/Food-Anticipatory-Behaviour.git
