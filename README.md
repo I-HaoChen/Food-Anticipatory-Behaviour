@@ -1,10 +1,12 @@
 # Food Anticipatory Behaviour on European Seabass in Sea Cages: Activity-, Positioning and Density-based approaches
 
-This repository:[![DOI](https://zenodo.org/badge/604184268.svg)](https://zenodo.org/badge/latestdoi/604184268)
+This repository: [![DOI](https://zenodo.org/badge/604184268.svg)](https://zenodo.org/badge/latestdoi/604184268)
 
-The paper using this repository: 10.3389/fmars.2023.1168953
+The paper using this repository: [![DOI](https://zenodo.org/badge/DOI/10.3389/fmars.2023.1168953.svg)](https://doi.org/10.3389/fmars.2023.1168953)
 
-The dataset needed to run the code can be found under the DOI: 10.5281/zenodo.7900274
+The dataset needed to run the code can be found under the DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7900274.svg)](https://doi.org/10.5281/zenodo.7900274)
+
+## Installation 
 
 For installation, run:
 ```
