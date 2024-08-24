@@ -4,7 +4,7 @@ This repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7977064.svg
 
 The paper using this repository: [![DOI](https://zenodo.org/badge/DOI/10.3389/fmars.2023.1168953.svg)](https://doi.org/10.3389/fmars.2023.1168953)
 
-The dataset needed to run the code can be found under the DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7900274.svg)](https://doi.org/10.5281/zenodo.7900274)
+The dataset needed to run the code can be found under the DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7900273.svg)](https://doi.org/10.5281/zenodo.7900273)
 
 ## Installation 
 
